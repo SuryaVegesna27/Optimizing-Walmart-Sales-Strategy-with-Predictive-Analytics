@@ -18,7 +18,7 @@ The aim of this project is to build a model that predicts sales for Walmart stor
 - Respond proactively to seasonal sales variations
 
 ## Solution
-An accurate prediction model will enable Walmart to:
+My prediction model will enable Walmart to:
 1. Determine seasonal demands and take timely actions
 2. Avoid financial losses by meeting sales targets, positively impacting stock prices and investor perceptions
 3. Forecast revenue easily and accurately
