@@ -1,8 +1,6 @@
 # Optimizing-Walmart-Sales-Strategy-with-Predictive-Analytics
 
 
-# Optimizing Walmart's Sales Strategy with Predictive Analytics
-
 ## Problem
 Walmart faces challenges due to significant seasonal variations in sales. If the company fails to anticipate these variations, it could experience substantial financial losses. Predicting future sales is crucial for enabling the company to:
 - Arrange stocks effectively
